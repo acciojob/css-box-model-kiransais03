@@ -1,18 +1,13 @@
 
 /* Your CSS Code here. */
-.boxmodel {
-	display:flex;
-	justify-content:center;
-	align-items:center;
+*{
+	margin: 8px;
+	padding: 0px;
 }
-
-#b1 {
-	border:2px solid black;
-	padding-left:15px;
-	
-}
-
-#b2 {
-	border:2px solid black;
-		padding:2px 15px;
+div{
+	background-color: lightblue;
+	padding: 50px;
+	border: 15px solid blue;
+	width: 380px;
+	margin: 20px;
 }
